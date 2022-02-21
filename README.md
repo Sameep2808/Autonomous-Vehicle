@@ -32,9 +32,9 @@ SOFTWARE.
 ## Overview
 
 ## Steering Mechanism 
-
+![g1](https://github.com/Sameep2808/ARMS_Auto/blob/main/Videos/1.gif)
 ## Parking and obstacle detection
-
+![g2](https://github.com/Sameep2808/ARMS_Auto/blob/main/Videos/ezgif.com-gif-maker.gif)
 ## Functional Diagram
 
 
