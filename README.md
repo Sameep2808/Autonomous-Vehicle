@@ -36,5 +36,5 @@ SOFTWARE.
 ## Parking and obstacle detection
 ![g2](https://github.com/Sameep2808/ARMS_Auto/blob/main/Videos/ezgif.com-gif-maker.gif)
 ## Functional Diagram
-
+![p1](https://github.com/Sameep2808/ARMS_Auto/blob/main/Videos/Screenshot%20from%202022-02-20%2020-43-05.png)
 
