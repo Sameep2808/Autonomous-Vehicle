@@ -4,6 +4,16 @@
 ## Authors
 - [Sameep Pote](https://github.com/Sameep2808) - Graduate student at University of Maryland pursuing M.Eng. Robotics.Loves to watch animes.
 
+## Overview
+
+## Steering Mechanism 
+![g1](https://github.com/Sameep2808/ARMS_Auto/blob/main/Videos/1.gif)
+## Parking and obstacle detection
+![g2](https://github.com/Sameep2808/ARMS_Auto/blob/main/Videos/ezgif.com-gif-maker.gif)
+## Functional Diagram
+![p1](https://github.com/Sameep2808/ARMS_Auto/blob/main/Videos/Screenshot%20from%202022-02-20%2020-43-05.png)
+
+
 ## License
 ```
 MIT License
@@ -28,13 +38,3 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ```
-
-## Overview
-
-## Steering Mechanism 
-![g1](https://github.com/Sameep2808/ARMS_Auto/blob/main/Videos/1.gif)
-## Parking and obstacle detection
-![g2](https://github.com/Sameep2808/ARMS_Auto/blob/main/Videos/ezgif.com-gif-maker.gif)
-## Functional Diagram
-![p1](https://github.com/Sameep2808/ARMS_Auto/blob/main/Videos/Screenshot%20from%202022-02-20%2020-43-05.png)
-
